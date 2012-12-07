@@ -1,5 +1,5 @@
 /*
- * Inline Form Validation Engine 2.6.2, jQuery plugin
+ * Inline Form Validation Engine 2.6.2-test, jQuery plugin
  *
  * Copyright(c) 2010, Cedric Dugas
  * http://www.position-absolute.com
@@ -10,7 +10,7 @@
  * Form validation engine allowing custom regex rules to be added.
  * Licensed under the MIT License
  *
- * 
+ *
  */
 ( function( $ ) {
 
